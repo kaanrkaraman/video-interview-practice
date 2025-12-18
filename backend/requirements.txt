@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai
+python-multipart
+pydantic
+python-dotenv
+httpx
+jinja2
+supabase
+black
+isort

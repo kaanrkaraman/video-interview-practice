@@ -1,0 +1,102 @@
+[
+    {
+        "id": "q1",
+        "text": "Tell me about a time you had to manage conflicting priorities.",
+        "category": "Behavioral"
+    },
+    {
+        "id": "q2",
+        "text": "Describe a project where you had to learn a new technology quickly.",
+        "category": "Technical"
+    },
+    {
+        "id": "q3",
+        "text": "How do you handle constructive criticism?",
+        "category": "Behavioral"
+    },
+    {
+        "id": "q4",
+        "text": "Give an example of a goal you didn't meet and how you handled it.",
+        "category": "Behavioral"
+    },
+    {
+        "id": "q5",
+        "text": "Tell me about a time you disagreed with a team member.",
+        "category": "Behavioral"
+    },
+    {
+        "id": "q6",
+        "text": "Describe a complex problem you solved.",
+        "category": "Technical"
+    },
+    {
+        "id": "q7",
+        "text": "What is your greatest professional achievement?",
+        "category": "General"
+    },
+    {
+        "id": "q8",
+        "text": "Where do you see yourself in five years?",
+        "category": "General"
+    },
+    {
+        "id": "q9",
+        "text": "Tell me about a time you showed leadership.",
+        "category": "Behavioral"
+    },
+    {
+        "id": "q10",
+        "text": "How do you prioritize your work?",
+        "category": "Productivity"
+    },
+    {
+        "id": "q11",
+        "text": "Tell me about a time you had to deliver bad news to a stakeholder.",
+        "category": "Communication"
+    },
+    {
+        "id": "q12",
+        "text": "Describe a time you failed to meet a deadline. What happened?",
+        "category": "Behavioral"
+    },
+    {
+        "id": "q13",
+        "text": "Explain a complex technical concept to someone without a technical background.",
+        "category": "Technical Communication"
+    },
+    {
+        "id": "q14",
+        "text": "Tell me about a time you improved a process or workflow.",
+        "category": "Operational"
+    },
+    {
+        "id": "q15",
+        "text": "Describe a situation where you had to persuade others to adopt your idea.",
+        "category": "Leadership"
+    },
+    {
+        "id": "q16",
+        "text": "Tell me about a time you worked with a difficult colleague.",
+        "category": "Interpersonal"
+    },
+    {
+        "id": "q17",
+        "text": "Describe the most challenging bug you have ever fixed.",
+        "category": "Technical"
+    },
+    {
+        "id": "q18",
+        "text": "How do you stay updated with the latest industry trends?",
+        "category": "General"
+    },
+    {
+        "id": "q19",
+        "text": "Tell me about a time you had to make a decision with incomplete information.",
+        "category": "Decision Making"
+    },
+    {
+        "id": "q20",
+        "text": "What makes you the best candidate for this role?",
+        "category": "General"
+    }
+]
